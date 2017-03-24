@@ -1,0 +1,5 @@
+﻿  Singleton.cpp
+c:\users\erikyael\documents\visual studio 2015\projects\singleton\singleton\singleton.h(16): error C2065: '_Instance': undeclared identifier
+  FileSystem.cpp
+  Generating Code...
+c:\users\erikyael\documents\visual studio 2015\projects\singleton\singleton\filesystem.cpp(15): error C4716: 'Filesystem::Instance': must return a value
